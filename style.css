@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cabecalho{
+    background-color: purple;
+    font-size:2rem;
+    color: white;
+    text-decoration: none;
+}
+.cabecalho a{
+        color: white;
+}
+
+.container1{
+    background-color: rebeccapurple;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container1 h1{
+    font-size: 5rem;
+}
+.container1 h3{
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.container1 img{
+    width: 47vw;
+}
+.linkes{
+    height: 100vh;
+}
+.footer {
+    background-color: purple;
+    color: white;
+    
+}
+.footer ul{
+    color: white;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
